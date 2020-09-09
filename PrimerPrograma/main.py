@@ -17,7 +17,7 @@ nombreVariable = x
 print(nombreVariable)
 print(y)
 
-# De aqui para abajo realizo los cambios para mi primer commit con Kraken
+# De aqui para abajo realizo los cambios para mi primer commit con GitKraken
 
 x = 100
 y = 50
